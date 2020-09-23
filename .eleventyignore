@@ -1,6 +1,7 @@
 .DS_Store
 .github/
 _site/
+.history/
 node_modules/
 package-lock.json
 README.md
@@ -10,3 +11,4 @@ functions
 test
 src
 .oryx_prod_node_modules/
+.content-backup/
